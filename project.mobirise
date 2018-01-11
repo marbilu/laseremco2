@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1661,7 +1661,7 @@
           },
           "title": "formularz kontaktowy",
           "subtitle": "proszę opisać jak nadokładniej pracę, która ma być wykonana &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">wyślij</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">wyślij</a>",
           "form": {
             "action": "laseremco2@gmail.com",
             "alerts": {
@@ -1777,7 +1777,7 @@
           "text2": "tel. 501472769",
           "text3": "30-812 Kraków ul. Bieżanowska 1",
           "text4": "<a href=\"mailto:support@mobirise.com\">l</a>aseremco2@gmail.com",
-          "text5": "<li><b><a href=\"https://bfotoarte.pl\" target=\"_blank\">www.BfotoArte.pl</a></b></li><li><b><a href=\"https://bogatysklep.pl\" target=\"_blank\">www.BogatySklep.pl</a></b></li><li><b><a href=\"https://ksiazkiinformatyczne.pl\" target=\"_blank\">www.KsiazkiInformatyczne.pl</a></b></li><li><b>www.albumy.pl</b></li><li><b>www.KubekReklamowy.eu</b></li>",
+          "text5": "<li><b><a href=\"https://bfotoarte.pl\" target=\"_blank\" class=\"text-danger\">www.BfotoArte.pl</a></b></li><li><b><a href=\"https://bogatysklep.pl\" target=\"_blank\" class=\"text-danger\">www.BogatySklep.pl</a></b></li><li><b><a href=\"https://ksiazkiinformatyczne.pl\" target=\"_blank\">www.KsiazkiInformatyczne.pl</a></b></li><li><b>www.albumy.pl</b></li><li><b>www.KubekReklamowy.eu</b></li>",
           "text6": "<strong>Kontakt</strong><br>Email:laseremCO2@gmail.com<br>Tel.: 501 47 27 69<br><br><br><br><strong>Adres:</strong><br>INTRO<br>30-812 Kraków ul. Bieżanowska 1<br>Polska",
           "form": {
             "title": "MESSAGE",
@@ -1817,7 +1817,10 @@
               "color": "#c0a375"
             },
             "P": {
-              "color": "#c0a375"
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           }
         }
